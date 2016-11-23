@@ -61,6 +61,16 @@ a:visited{
 	text-align:center;
 	font-size:19px;
 }
+.overlay{
+	width:90%;
+	height:0;
+	z-index:10;
+	position:fixed;
+	left:5%;
+	background:rgba(255,255,255,0.99);
+	border-radius:2px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 @media only screen and (min-width: 768px){
 	[class*="col-"] { float: left;padding: 15px;}
 	.col-1 { width: 8.33%;}
