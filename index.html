@@ -6,8 +6,45 @@
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display|Raleway:900" rel="stylesheet">
 		<link href="https://file.myfontastic.com/n6vo44Re5QaWo8oCKShBs7/icons.css" rel="stylesheet" />
 		<link rel="stylesheet" href="main.css" type="text/css" />
+		<script src="jquery.min.js"></script>
 	</head>
 	<body>
+		<script>
+function proofOfAwesomeness(){
+	$(".overlay").animate({top: "5%",height: "90%"});
+	$(".proof-of-awesomeness").css({display: "block"});
+}
+function prove(){
+	window.alert("Proved! Manas is Awesome!");
+}
+$(document).ready(function(){
+	$(".close").on("click", function(){
+		close();
+	});
+})
+function close(){
+	$(".proof-of-awesomeness").css({display: "none"});
+	$(".overlay").animate({top: "0%",height: "0%"});
+}
+	</script>
+		<div class="overlay">
+		<br/>
+			<div class="row proof-of-awesomeness" style="width:95%;height:95%;margin:auto;display:none;">
+				<div class="col-12" style="background:#263238;margin:2% auto;padding:15px;border-radius:2px;color:#fff;line-height:2;font-size:20px;height:91%;position:relative;overflow:scroll;">
+				<div style="width:90%;margin:auto;">	
+					<pre>
+<span style="font-weight:bold;color:#fda;">if(</span><span style="color:#cf6;">Manas.isAwesome()</span><span style="font-weight:bold;color:#fda;">){</span>
+  <span style="font-weight:bold;color:#fda;">alert(</span><span style="color:#fa0;font-style:italic;">"Proved! Manas is Awesome!"</span><span style="font-weight:bold;color:#fda;">);</span>
+<span style="font-weight:bold;color:#fda;">}</span></pre>
+		</div>
+	<br/>
+	<div style="position:absolute;bottom:10px;width:91%;height:10%;">
+		<button style="background:transparent;color:#fff;border:none;border-bottom:2px solid #fff;font-size:18px;float:right;" onclick="prove()">Run Code</button>
+		<button style="background:transparent;color:#fff;border:none;border-bottom:2px solid #fff;font-size:18px;float:left;" class="close">Close</button>
+	</div>
+	</div>
+			</div>
+		</div>
 		<div class="background"></div>
 		<div class="main">
 			<div class="row">
@@ -25,6 +62,7 @@
 								<span style="font-family:'Raleway';font-size:26px;">feed<span style="color:#df3232;">.</span>org</span></a>
 							</div>
 							<br/>
+							<button onclick="proofOfAwesomeness()" style="background:transparent;border:0px;color:#fbf8ff;padding:10px;border-bottom:2px solid #fbf8ff;font-size:20px;font-weight:400;font-family:'Open Sans';">Proof of Awesomeness!</button>
 							<div style="margin:15px auto;padding:10px;">
 								<!--<a href="https://facebook.com/manas.oswal.9"><span class="socicon-facebook" style="font-size:30px;color:#ccc;margin:10px;"></span></a>-->
 								<a href="https://twitter.com/manu090999"><span class="socicon-twitter" style="font-size:30px;color:#ccc;margin:10px;"></span></a>
