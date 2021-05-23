@@ -31948,7 +31948,7 @@ bv:function(a){return this.d.$0()},
 ga2:function(a){return this.d}}
 G.a9v.prototype={
 $2:function(a,b){var s,r=null
-if(b.a!==C.lU)s=U.aiH(80,new L.lX("images/Spinner-1s-200px.gif",r,r))
+if(b.a!==C.lU)s=U.aiH(80,new L.lX("assets/images/Spinner-1s-200px.gif",r,r))
 else{s=P.bZ(0,200,0)
 s=G.ahy(!1,L.du(this.a.d,r,r,r,A.ca(r,r,r,r,r,r,r,r,r,r,r,35,r,C.a0,r,r,!0,r,r,r,r,r,r),r,r),C.ak,s,1)}return s},
 $S:266}
@@ -31988,7 +31988,7 @@ r=b.a4(s).f
 r=G.a3u("assets/backgrounds/gradient-5.svg",C.Y,C.hH,b.a4(s).f.a.b,r.a.a)
 s=K.fp(25)
 q=t._
-return M.a0I(p,T.iA(C.bl,H.b([r,Q.aeK(!0,T.BR(new T.e9(C.pP,E.aeN(new T.el(new S.aF(0,500,0,1/0),M.bD(p,T.kw(H.b([T.eb(p,25,p),U.aiH(80,new L.lX("logo/DentalFitness.png",p,p)),T.eb(p,10,p),L.du("An initiative by 32smiles!",p,p,p,A.ca(p,p,C.EM,p,p,p,p,p,p,p,p,14,p,C.m4,p,p,!0,p,p,p,p,p,p),p,p),T.eb(p,30,p),L.du("Score your dental health!",p,p,p,K.aQ(b).a7.f.mA(C.n,C.a0),p,p),T.eb(p,25,p),new Q.uX(p),T.eb(p,25,p)],q),C.ah,C.qM,C.ad),C.k,p,p,new S.cb(C.i,p,p,s,p,p,C.D),p,p,p,new V.ah(20,20,20,20),p,p,p),p)),p),p,p),!0)],q),C.cz),!1)}}
+return M.a0I(p,T.iA(C.bl,H.b([r,Q.aeK(!0,T.BR(new T.e9(C.pP,E.aeN(new T.el(new S.aF(0,500,0,1/0),M.bD(p,T.kw(H.b([T.eb(p,25,p),U.aiH(80,new L.lX("assets/logo/DentalFitness.png",p,p)),T.eb(p,10,p),L.du("An initiative by 32smiles!",p,p,p,A.ca(p,p,C.EM,p,p,p,p,p,p,p,p,14,p,C.m4,p,p,!0,p,p,p,p,p,p),p,p),T.eb(p,30,p),L.du("Score your dental health!",p,p,p,K.aQ(b).a7.f.mA(C.n,C.a0),p,p),T.eb(p,25,p),new Q.uX(p),T.eb(p,25,p)],q),C.ah,C.qM,C.ad),C.k,p,p,new S.cb(C.i,p,p,s,p,p,C.D),p,p,p,new V.ah(20,20,20,20),p,p,p),p)),p),p,p),!0)],q),C.cz),!1)}}
 Q.uX.prototype={
 aw:function(){return new Q.Es(new N.bG(null,t.Jv),C.j)}}
 Q.Es.prototype={
