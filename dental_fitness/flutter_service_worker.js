@@ -4,20 +4,21 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "05371c280c409971efbfe69badb21648",
-"index.html": "7782741b150b4342cf8e76fe5ed632b6",
-"/": "7782741b150b4342cf8e76fe5ed632b6",
+"index.html": "30f755bd1f78fed039c4624f5d99263b",
+"/": "30f755bd1f78fed039c4624f5d99263b",
 "styles.css": "e991c31cc70d57a631f10a9a4a7be0cc",
-"main.dart.js": "b00ac2d2a354200d1d25c45401c6b0d2",
+"main.dart.js": "8a5f8d84bca0b107599730b74c7142c3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/32smiles-logo.png": "05fdb92d723896475274d602af35ed25",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "aae038c7ed15a085e227db5a352e4a8b",
-"assets/AssetManifest.json": "b9956e0ba425f2abd8029431f4444073",
-"assets/NOTICES": "87beef2802d0ef52e38204620a486c53",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/AssetManifest.json": "de7a5f1a665b632a991750fdefc97ad4",
+"assets/NOTICES": "ba29fd1e3cb5d93dd1671b1c724d0ccb",
+"assets/FontManifest.json": "23e0c41e876f69c9d38103ace30f69ab",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/assets/images/Spinner-1s-200px.gif": "013c4f84d7198e73228c88726c3743ed",
 "assets/assets/backgrounds/welcome_background_wavy.svg": "b54582b58ac0e28a366b85b41edf820c",
 "assets/assets/backgrounds/Radiant-Gradient.svg": "fa4ba733653e997f048b4882087c669e",
 "assets/assets/backgrounds/gradient-2.svg": "e1e85809e7a459bd2cd588490ef2369a",
@@ -26,7 +27,10 @@ const RESOURCES = {
 "assets/assets/backgrounds/gradient.svg": "032738dea25493d1fdbb9464a786975b",
 "assets/assets/backgrounds/gradient-5.svg": "07a8740da4d616fc732ba2c0fb05f487",
 "assets/assets/backgrounds/Wave.svg": "ab6e4aa25c00990140a2ea7b84bb6b5e",
-"assets/assets/logo/32smiles-logo.png": "05fdb92d723896475274d602af35ed25"
+"assets/assets/logo/32smiles-logo.png": "05fdb92d723896475274d602af35ed25",
+"assets/assets/logo/10.3.18-05.png": "48869c61c28875869f2eccf14013347b",
+"assets/assets/logo/Dentalfitness.png": "d340e2b32305d6cc8a6922b7edcbfb8b",
+"assets/assets/fonts/Roboto/Roboto-Regular.ttf": "f36638c2135b71e5a623dca52b611173"
 };
 
 // The application shell files that are downloaded before a service worker can
