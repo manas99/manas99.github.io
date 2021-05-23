@@ -4,24 +4,24 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "05371c280c409971efbfe69badb21648",
-"index.html": "b63525190e4205f265d1a3d0634163b9",
-"/": "b63525190e4205f265d1a3d0634163b9",
+"index.html": "071f8cb69ae0c7569cce4489227ced1c",
+"/": "071f8cb69ae0c7569cce4489227ced1c",
 "styles.css": "d7185e98a3047225d23f43bed4c3a29c",
-"main.dart.js": "a09dc1861bd6f4dde150d28636d8764e",
+"main.dart.js": "f7a242d1a19e003ae7ae80ac894bdc89",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/32smiles-logo.png": "05fdb92d723896475274d602af35ed25",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/10.3.18-05.png": "48869c61c28875869f2eccf14013347b",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "aae038c7ed15a085e227db5a352e4a8b",
-"assets/AssetManifest.json": "e79f860acb8688ca11317b5c42d4fded",
+"assets/AssetManifest.json": "86a5a0777284482e31bf9f76fb09643d",
 "assets/NOTICES": "ba29fd1e3cb5d93dd1671b1c724d0ccb",
 "assets/FontManifest.json": "23e0c41e876f69c9d38103ace30f69ab",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/final/Dentalfitness.png": "d340e2b32305d6cc8a6922b7edcbfb8b",
 "assets/assets/final/gradient-5.svg": "07a8740da4d616fc732ba2c0fb05f487",
-"assets/assets/final/Spinner-1s-200px.gif": "013c4f84d7198e73228c88726c3743ed",
+"assets/assets/final/Spinner1s200px.gif": "013c4f84d7198e73228c88726c3743ed",
 "assets/assets/fonts/Roboto/Roboto-Regular.ttf": "f36638c2135b71e5a623dca52b611173"
 };
 
