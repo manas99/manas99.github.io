@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 60'>
+    <rect fill='#cfc4f2' width='100' height='60'/>
+    <g >
+        <rect fill='#cfc4f2' width='11' height='11'/>
+        <rect fill='#cdc3f1' x='10' width='11' height='11'/>
+        <rect fill='#ccc1f0' y='10' width='11' height='11'/>
+        <rect fill='#cac0ef' x='20' width='11' height='11'/>
+        <rect fill='#c8beee' x='10' y='10' width='11' height='11'/>
+        <rect fill='#c6bded' y='20' width='11' height='11'/>
+        <rect fill='#c5bcec' x='30' width='11' height='11'/>
+        <rect fill='#c3baea' x='20' y='10' width='11' height='11'/>
+        <rect fill='#c1b9e9' x='10' y='20' width='11' height='11'/>
+        <rect fill='#bfb7e8' y='30' width='11' height='11'/>
+        <rect fill='#beb6e7' x='40' width='11' height='11'/>
+        <rect fill='#bcb5e6' x='30' y='10' width='11' height='11'/>
+        <rect fill='#bab3e5' x='20' y='20' width='11' height='11'/>
+        <rect fill='#b8b2e4' x='10' y='30' width='11' height='11'/>
+        <rect fill='#b7b1e3' y='40' width='11' height='11'/>
+        <rect fill='#b5afe2' x='50' width='11' height='11'/>
+        <rect fill='#b3aee1' x='40' y='10' width='11' height='11'/>
+        <rect fill='#b1ade0' x='30' y='20' width='11' height='11'/>
+        <rect fill='#b0abdf' x='20' y='30' width='11' height='11'/>
+        <rect fill='#aeaade' x='10' y='40' width='11' height='11'/>
+        <rect fill='#aca9dd' y='50' width='11' height='11'/>
+        <rect fill='#aaa7dc' x='60' width='11' height='11'/>
+        <rect fill='#a9a6db' x='50' y='10' width='11' height='11'/><rect fill='#a7a5da' x='40' y='20' width='11' height='11'/><rect fill='#a5a3d8' x='30' y='30' width='11' height='11'/><rect fill='#a3a2d7' x='20' y='40' width='11' height='11'/><rect fill='#a1a1d6' x='10' y='50' width='11' height='11'/><rect fill='#9f9fd5' x='70' width='11' height='11'/><rect fill='#9e9ed4' x='60' y='10' width='11' height='11'/><rect fill='#9c9dd3' x='50' y='20' width='11' height='11'/><rect fill='#9a9bd2' x='40' y='30' width='11' height='11'/><rect fill='#989ad1' x='30' y='40' width='11' height='11'/><rect fill='#9699d0' x='20' y='50' width='11' height='11'/><rect fill='#9597cf' x='80' width='11' height='11'/><rect fill='#9396ce' x='70' y='10' width='11' height='11'/><rect fill='#9195cd' x='60' y='20' width='11' height='11'/><rect fill='#8f94cc' x='50' y='30' width='11' height='11'/><rect fill='#8d92cb' x='40' y='40' width='11' height='11'/><rect fill='#8b91ca' x='30' y='50' width='11' height='11'/><rect fill='#8990c9' x='90' width='11' height='11'/><rect fill='#878ec8' x='80' y='10' width='11' height='11'/><rect fill='#868dc7' x='70' y='20' width='11' height='11'/><rect fill='#848cc6' x='60' y='30' width='11' height='11'/><rect fill='#828bc5' x='50' y='40' width='11' height='11'/><rect fill='#8089c4' x='40' y='50' width='11' height='11'/><rect fill='#7e88c3' x='90' y='10' width='11' height='11'/><rect fill='#7c87c1' x='80' y='20' width='11' height='11'/><rect fill='#7a86c0' x='70' y='30' width='11' height='11'/><rect fill='#7884bf' x='60' y='40' width='11' height='11'/><rect fill='#7683be' x='50' y='50' width='11' height='11'/><rect fill='#7482bd' x='90' y='20' width='11' height='11'/><rect fill='#7281bc' x='80' y='30' width='11' height='11'/><rect fill='#7080bb' x='70' y='40' width='11' height='11'/><rect fill='#6e7eba' x='60' y='50' width='11' height='11'/><rect fill='#6c7db9' x='90' y='30' width='11' height='11'/><rect fill='#6a7cb8' x='80' y='40' width='11' height='11'/><rect fill='#687bb7' x='70' y='50' width='11' height='11'/><rect fill='#6679b6' x='90' y='40' width='11' height='11'/><rect fill='#6478b5' x='80' y='50' width='11' height='11'/><rect fill='#6277b4' x='90' y='50' width='11' height='11'/>
+    </g>
+</svg>
