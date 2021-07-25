@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    font-family: Arial;
+}
+
+.display-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+}
+
+.display-content {
+    letter-spacing: 1px;
+    font-family: Arial;
+    font-size: 30px;
+    margin-left: 10px;
+}
